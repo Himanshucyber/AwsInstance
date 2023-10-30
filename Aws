@@ -1,0 +1,99 @@
+AWS STEPS For create instance
+
+open aws
+
+२.
+
+Login
+
+3.
+
+4642 SOUTCH
+
+Open EC2 → Pnseance (Running)
+
+set location (mumbaf) of south
+
+5.
+
+Launch Pnstance
+
+7.
+
+after open Pnstance
+
+Le set name 'xrz'
+
+↳ Select ubuntu os
+
+جا Create new key pair
+
+4 enter key pals name ' xrz'
+
+جا Ker pa type QSA
+
+↳ private key ffie Format →SQIOCE • PPK.
+
+4 CIPCR on create key Day
+
+8. Launch Pnscance
+
+9. cifch on instances or given CIPCK ON LPDK
+
+10.
+
+CIPCtion instance id
+
+11-
+
+CIPCE on security
+
+12
+
+. CIFCR on security group link
+
+13.
+
+ed Pt Pnbound rove
+
+14
+
+. change type PPFO PDCO All traffic
+
+15
+
+. change source info inco Anywhere PpY4
+
+Add we
+
+17. Change type PREO Pnco All icmp - 9px 4
+
+18-
+
+change source info inco Anywhere Ppv4
+
+16.
+
+19.
+
+Save wos.
+
+20.
+
+select CIPIK on running Pnscances
+
+21-
+
+Then CIPCK on connect
+
+२२.
+
+Again Ciput on connect
+
+Now show Ubuntu prompt
+
+23.
+
+34 Sudo apt update
+
+05. gPc cone COPY POK
